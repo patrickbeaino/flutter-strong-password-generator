@@ -1,4 +1,4 @@
-# strong_password_generator
+# Strong Password Generator
 
 A strong password generator using flutter.
 
