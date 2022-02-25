@@ -1,5 +1,5 @@
 # Strong Password Generator
 
-A strong password generator using flutter.
+Mobile Application using Flutter
 
 
