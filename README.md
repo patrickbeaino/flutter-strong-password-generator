@@ -1,6 +1,6 @@
 # strong_password_generator
 
-A new Flutter project.
+A strong password generator using flutter.
 
 ## Getting Started
 
