@@ -2,6 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:strong_password_generator/home_page.dart';
+import 'package:responsive_framework/responsive_framework.dart';
 
 void main() {
   runApp(const MyApp());
@@ -36,8 +37,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          elevation: 20.0,
-          toolbarHeight: 90.0,
+          toolbarHeight: 80.0,
           actions: [
             Switch(
                 activeTrackColor: Colors.white,
